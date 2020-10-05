@@ -1,3 +1,3 @@
 # EvernoteSearch
 
-Evernote for Windows指定検索ワードでノート一覧を表示する。
+指定検索ワードでEvernote for Windowsのノート一覧を表示する。
